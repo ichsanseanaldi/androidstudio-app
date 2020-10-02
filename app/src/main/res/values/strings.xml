@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Book Catalog - 1805420</string>
+
+    <string-array name="title">
+        <item>Harry Potter and the Deathly Hallows</item>
+        <item>The Lord of the Rings: The Fellowship of the Ring</item>
+        <item>Death on the Nile (Poirot)</item>
+        <item>Marvel\'s Avengers: Endgame Prelude</item>
+        <item>The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life</item>
+        <item>Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not</item>
+        <item>Sapiens: A Brief History of Humankind</item>
+        <item>Homo Deus: A Brief History of Tomorrow</item>
+        <item>COVID-19: The Pandemic that Never Should Have Happened and How to Stop the Next One</item>
+        <item>Android App Development For Dummies: Edition 3</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>J.k. Rowling</item>
+        <item>J.R.R. Tolkien</item>
+        <item>Agatha Christie</item>
+        <item>Will Corona Pilgrim</item>
+        <item>Mark Manson</item>
+        <item>Robert Kiyosaki</item>
+        <item>Yuval Noah Harari</item>
+        <item>Yuval Noah Harari</item>
+        <item>Debora Mackenzie</item>
+        <item>Michael Burton</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Novel</item>
+        <item>Novel</item>
+        <item>Novel</item>
+        <item>Grafik Novel</item>
+        <item>Motivasi</item>
+        <item>Bisnis dan Keuangan</item>
+        <item>Sejarah</item>
+        <item>Sejarah</item>
+        <item>Kesehatan</item>
+        <item>Komputer</item>
+    </string-array>
+
+    <string-array name="cover">
+        <item>@drawable/book1</item>
+        <item>@drawable/book2</item>
+        <item>@drawable/book3</item>
+        <item>@drawable/book4</item>
+        <item>@drawable/book5</item>
+        <item>@drawable/book6</item>
+        <item>@drawable/book7</item>
+        <item>@drawable/book8</item>
+        <item>@drawable/book9</item>
+        <item>@drawable/book10</item>
+    </string-array>
+
+</resources>
